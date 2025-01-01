@@ -95,7 +95,7 @@ For the source code, you can insert the link to your github repo code that you w
 As you can see the github account has been connected to jenkins.
 
 
-## Running the web-app from Jenkins
+## 12. Running the web-app from Jenkins
 
 In the Jenkins, add an execute shell and create a image like you would in a terminal.
 ![alt text](image-17.png)
@@ -107,5 +107,13 @@ The username and password is to my dockerhub so a I have changed it currently.
 ![alt text](image-16.png)
 As you can see the web-app is up and running.
 
+
+## 13. Creating changes into index.php 
+
+![alt text](image-19.png)
+
 # Challenges faced:
 Although the most of the task was easy, the hardest challenge was learning Jenkins as most of the sources and videos available on youtube were really old.
+
+![alt text](image-18.png)
+I had created 2 freestyle projects and above 50 build to finally deploy a succesful web app from jenkins.
